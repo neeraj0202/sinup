@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+}
+{
+  box-sizing: border-box;
+}
+.registerbtn {
+	width: 100%;
+   background-color: #4CAF50;
+   color: white;
+   padding: 16px 20px;
+   margin: 8px 0;
+   border: black;
+   cursor: pointer;
+   opacity: 1;
+}
+input[type=text], input[type=password],input[type=Email], input[type=password]{
+  width: 25%;
+  padding: 15px;
+  margin: 5px 10px 22px 10px;
+  display: inline-block;
+  border: none;
+
+ }
+ .content {
+  padding: 16px;
+  background-color: gray;
+}
+ a {
+  color: blue;
+}
+ .signin {
+  background-color: #f1f1f1;
+  text-align: center;
+}
+  
