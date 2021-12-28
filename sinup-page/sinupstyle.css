@@ -1,5 +1,7 @@
 body {
   font-family: Arial;
+border: 10px solid green;
+  text-align:center;	
 }
 {
   box-sizing: border-box;
